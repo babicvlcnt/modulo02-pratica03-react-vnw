@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bio {
+  margin: 1em;
+  width: 90vw;
+  height: 90vh;
+  background-color: #cd5c5c;
+}
+h1 {
+  background-color: #fa8072;
+}
+h3 {
+  background-color: #fa8072;
+}
+ul {
+  background-color: #fa8072;
+}
